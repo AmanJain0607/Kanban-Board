@@ -23,4 +23,3 @@ Coming Soon
 - CSS3 (with modern UI styles and responsiveness)
 - JavaScript (DOM Manipulation, Drag & Drop, LocalStorage)
 
-## 📁 File Structure

@@ -12,11 +12,6 @@ A lightweight, visually styled Kanban board (To-Do List) application built with 
 - 💾 Save and Sync tasks using local storage
 - ✨ Responsive and visually appealing UI
 
-## 🚀 Live Preview
-
-Add a GitHub Pages link here if deployed  
-Coming Soon
-
 ## 🧰 Tech Stack
 
 - HTML5
